@@ -11,6 +11,6 @@
     # ./screenshots.nix
     ./status-bar.nix
     ./volume.nix
-    # ./wallpaper.nix
+    ./wallpaper.nix
   ];
 }
