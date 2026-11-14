@@ -6,8 +6,6 @@
   ...
 }:
 
-# TODO: Maybe a flake that pulls in the Quantum style?
-
 let
 
   # This is placed here as it is reused in http allow list
