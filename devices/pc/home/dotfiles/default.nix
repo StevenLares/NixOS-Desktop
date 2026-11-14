@@ -22,9 +22,6 @@ let
 
   ewwPath = "${dotfilesPath}/eww/";
 
-  #TODO: Add and configure eww
-  #TODO: Add and configure awww
-
   nvimPath = "${dotfilesPath}/nvim/";
 
 in
