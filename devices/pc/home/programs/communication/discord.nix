@@ -9,6 +9,10 @@
       appId = "com.discordapp.Discord";
       origin = "flathub";
     }
+    {
+      appId = "dev.vencord.Vesktop";
+      origin = "flathub";
+    }
   ];
 
 }
