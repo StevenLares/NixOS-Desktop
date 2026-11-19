@@ -14,7 +14,7 @@ You may need to grep this codebase for:
 `if host == `
 As that is host-specific behavior you may want for this new machine.
 
-`shared-configs/` also has some host specific logic embedded in the attribute sets.
+`global/` also has some host specific logic embedded in the attribute sets.
 Host-specific logic tends to "live together" in the same files, so this stuff isn't as spread out as it may seem from this description.
 
 You will also have to modify flake.nix and other parts of the code to accomodate your new machine. See existing code for inspiration.
